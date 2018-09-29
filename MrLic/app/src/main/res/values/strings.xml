@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Mr.Lic</string>
+    <string name="title_1">Primi</string>
+    <string name="title_2">Secondi</string>
+    <string name="title_3">Dessert</string>
+
+    <string name="title_activity_splashscreen">SplashscreenActivity</string>
+    <string name="dummy_button">Dummy Button</string>
+    <string name="dummy_content">DUMMY\nCONTENT</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
